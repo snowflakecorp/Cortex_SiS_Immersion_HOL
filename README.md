@@ -1,6 +1,7 @@
 # Cortex & SiS Immersion Day Workshop
 
 Here is a ["pitch" deck](https://docs.google.com/presentation/d/1zCyBDr3BOZvWx0dESEAYEI3cF7x7sMrW44dGM2VK-AU/edit?usp=sharing) for running a customer-facing Cortex & SiS Immersion Day workshop.
+
 **Benefits for your customer include:**
 - Understand that Snowflake is not just a SQL warehouse, with native Generative AI and Machine Learning capabilities
 - Understand that Snowflake’s Text analytics & generation capabilities to support faster development and lower TCO with performant LLMs and search without moving data or managing integrations
@@ -9,7 +10,14 @@ Here is a ["pitch" deck](https://docs.google.com/presentation/d/1zCyBDr3BOZvWx0d
 
 Here is the [templatized workshop deck](https://docs.google.com/presentation/d/1JrFp2wRr3HrFTQwecm1mCYlieuzL8gt1Z3wxbnozYRo/edit?usp=sharing)
 
-***Potential 3hr HOL Agenda:***
+Things to keep in mind:
+- **Cortex ML (Predictive ML) and Cortex LLMs (Generative AI) are foundationally different concepts.**
+  - ML has been around for more than a decade and there is considerable expertise / history with many of our customers. Cortex ML is Snowflake's effort to democratize "basic analytics and ML". They are great for creating creating "baseline" ML models. You don't want to get into a head to head debate about ML architecture since the ML field is vast.
+  - AI is new. There are barely any standards and tools. The opportunity is huge. AI (LLMs) is what most customers want to hear about. 
+- **Suggested HOL Approach - Break content into two sessions, or have a break between the sections.**
+  - Suggest running two seperate workshops. Part 1 (predictive ML) as one workshop. Part 2 (Generative AI) as one workshop.
+
+***HOL Agenda: (1 session for 3hrs or 2 sessions at 1.5hrs/session)***
 - **Snowflake for AI Intro**
   - Predictive AI / Machine Learning
   - Generative AI
@@ -18,18 +26,11 @@ Here is the [templatized workshop deck](https://docs.google.com/presentation/d/1
   - **Part 1: Create simple ML-Powered analytics**
     - Create Forecast using SQL Worksheet
     - Create Anomaly Detection using Snowflake Notebooks
-  - BREAK - folks don't do well when you jump from ML to Gen AI without pausing. Suggest running two seperate workshops. Part 1 (predictive ML) as one workshop. Part 2 (Generative AI) as one workshop.
+  - **BREAK** 
   - **Part 2: Create simple LLM-Powered Unstructured Batch Data Processing Assistant**
     - Create simple SiS app to translate text, detect sentiment, and summarize
     - Create simple SiS chatbot to answer simple questions
-  - **Part 3: Demonstrate customized SiS App (example Competitive Intel App)**
-
-**Recommended HOL Approach**
-- Break content into two sessions, or have a break between the sections.
-- **Cortex ML (Predictive ML) and Cortex LLMs (Generative AI) are foundationally different concepts.**
-  - ML has been around for more than a decade and there is considerable expertise / history with many of our customers. Cortex ML is Snowflake's effort to democratize "basic analytics and ML". They are great for creating creating "baseline" ML models. You don't want to get into a head to head debate about ML architecture since the ML field is vast.
-  - AI is new. There are barely any standards and tools. The opportunity is huge. AI (LLMs) is what most customers want to hear about. 
-
+- **Optional Part 3: Demonstrate customized SiS App (example Competitive Intel App)**
 
 **What SEs need to know:**
 - SEs will need to setup the customer's account or Snowflake trial account prior to the workshop. See this [document](https://docs.google.com/document/d/1vg0ImF1orv6hY89Riuz8bVb5UO7l9kfYk3l_6HJBu34/edit?usp=sharing) for full setup instructions.
