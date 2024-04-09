@@ -1,10 +1,15 @@
 # Cortex & SiS Immersion Day Workshop
 
 Here is a ["pitch" deck](https://docs.google.com/presentation/d/1zCyBDr3BOZvWx0dESEAYEI3cF7x7sMrW44dGM2VK-AU/edit?usp=sharing) for running a customer-facing Cortex & SiS Immersion Day workshop.
+**Benefits for your customer include:**
+- Understand that Snowflake is not just a SQL warehouse, with native Generative AI and Machine Learning capabilities
+- Understand that Snowflake’s Text analytics & generation capabilities to support faster development and lower TCO with performant LLMs and search without moving data or managing integrations
+- Understand difference between Generative AI and Machine Learning Use Cases capabilities and roadmap
+- Experience Cortex and Streamlit in Snowflake first-hand with ready-to-use code via Hands-on-Lab
 
 Here is the [templatized workshop deck](https://docs.google.com/presentation/d/1JrFp2wRr3HrFTQwecm1mCYlieuzL8gt1Z3wxbnozYRo/edit?usp=sharing)
 
-***Suggested 2.5hr Lunch & Learn HOL Agenda:***
+***Potential 3hr HOL Agenda:***
 - **Snowflake for AI Intro**
   - Predictive AI / Machine Learning
   - Generative AI
@@ -19,11 +24,12 @@ Here is the [templatized workshop deck](https://docs.google.com/presentation/d/1
     - Create simple SiS chatbot to answer simple questions
   - **Part 3: Demonstrate customized SiS App (example Competitive Intel App)**
 
-**Benefits for your customer include:**
-- Understand that Snowflake is not just a SQL warehouse, with native Generative AI and Machine Learning capabilities
-- Understand that Snowflake’s Text analytics & generation capabilities to support faster development and lower TCO with performant LLMs and search without moving data or managing integrations
-- Understand difference between Generative AI and Machine Learning Use Cases capabilities and roadmap
-- Experience Cortex and Streamlit in Snowflake first-hand with ready-to-use code via Hands-on-Lab
+**Recommended HOL Approach**
+- Break content into two sessions, or have a break between the sections.
+- **Cortex ML (Predictive ML) and Cortex LLMs (Generative AI) are foundationally different concepts.**
+  - ML has been around for more than a decade and there is considerable expertise / history with many of our customers. Cortex ML is Snowflake's effort to democratize "basic analytics and ML". They are great for creating creating "baseline" ML models. You don't want to get into a head to head debate about ML architecture since the ML field is vast.
+  - AI is new. There are barely any standards and tools. The opportunity is huge. AI (LLMs) is what most customers want to hear about. 
+
 
 **What SEs need to know:**
 - SEs will need to setup the customer's account or Snowflake trial account prior to the workshop. See this [document](https://docs.google.com/document/d/1vg0ImF1orv6hY89Riuz8bVb5UO7l9kfYk3l_6HJBu34/edit?usp=sharing) for full setup instructions.
