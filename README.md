@@ -2,6 +2,8 @@
 
 Here is a ["pitch" deck](https://docs.google.com/presentation/d/1zCyBDr3BOZvWx0dESEAYEI3cF7x7sMrW44dGM2VK-AU/edit?usp=sharing) for running a customer-facing Cortex & SiS Immersion Day workshop.
 
+Here is the [templatized workshop deck](https://docs.google.com/presentation/d/1JrFp2wRr3HrFTQwecm1mCYlieuzL8gt1Z3wxbnozYRo/edit?usp=sharing)
+
 ***Suggested 2.5hr Lunch & Learn HOL Agenda:***
 - **Snowflake for AI Intro**
   - Predictive AI / Machine Learning
@@ -11,6 +13,7 @@ Here is a ["pitch" deck](https://docs.google.com/presentation/d/1zCyBDr3BOZvWx0d
   - **Part 1: Create simple ML-Powered analytics**
     - Create Forecast using SQL Worksheet
     - Create Anomaly Detection using Snowflake Notebooks
+  - BREAK - folks don't do well when you jump from ML to Gen AI without pausing. Suggest running two seperate workshops. Part 1 (predictive ML) as one workshop. Part 2 (Generative AI) as one workshop.
   - **Part 2: Create simple LLM-Powered Unstructured Batch Data Processing Assistant**
     - Create simple SiS app to translate text, detect sentiment, and summarize
     - Create simple SiS chatbot to answer simple questions
