@@ -17,7 +17,7 @@ Things to keep in mind:
 - **Suggested HOL Approach - Break content into two sessions, or have a break between the sections.**
   - Suggest running two separate workshops. Part 1 (Predictive ML) as one workshop. Part 2 (Generative AI) as one workshop.
 
-***HOL Agenda: (1 session for 3hrs or 2 sessions at 1.5hrs/session)***
+***HOL Agenda: (1 session for 4 hrs or 2 sessions at 2 hrs/session)***
 - **Snowflake for AI Intro**
   - Predictive AI / Machine Learning
   - Generative AI
