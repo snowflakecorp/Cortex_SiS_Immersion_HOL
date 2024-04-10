@@ -3,7 +3,7 @@
 Here is a ["pitch" deck](https://docs.google.com/presentation/d/1zCyBDr3BOZvWx0dESEAYEI3cF7x7sMrW44dGM2VK-AU/edit?usp=sharing) for running a customer-facing Cortex & SiS Immersion Day workshop.
 
 **Benefits for your customer include:**
-- Understand that Snowflake is not just a SQL warehouse, with native Generative AI and Machine Learning capabilities
+- Learn about and test Snowflake’s native Generative AI and Machine Learning capabilities
 - Understand that Snowflake’s Text analytics & generation capabilities to support faster development and lower TCO with performant LLMs and search without moving data or managing integrations
 - Understand difference between Generative AI and Machine Learning Use Cases capabilities and roadmap
 - Experience Cortex and Streamlit in Snowflake first-hand with ready-to-use code via Hands-on-Lab
