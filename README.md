@@ -15,7 +15,7 @@ Things to keep in mind:
   - ML has been around for more than a decade and there is considerable expertise / history with many of our customers. Cortex ML is Snowflake's effort to democratize "basic analytics and ML". They are great for creating creating "baseline" ML models. You don't want to get into a head to head debate about ML architecture since the ML field is vast.
   - AI is new. There are barely any standards and tools. The opportunity is huge. AI (LLMs) is what most customers want to hear about. 
 - **Suggested HOL Approach - Break content into two sessions, or have a break between the sections.**
-  - Suggest running two seperate workshops. Part 1 (predictive ML) as one workshop. Part 2 (Generative AI) as one workshop.
+  - Suggest running two separate workshops. Part 1 (predictive ML) as one workshop. Part 2 (Generative AI) as one workshop.
 
 ***HOL Agenda: (1 session for 3hrs or 2 sessions at 1.5hrs/session)***
 - **Snowflake for AI Intro**
